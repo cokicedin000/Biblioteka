@@ -31,8 +31,8 @@ public class KreiranjeRacuna {
 		return imeKorisnika;
 	}
 
-	public void setIme(String ime) {
-		this.imeKorisnika = ime;
+	public void setIme(String imeKorisnika) {
+		this.imeKorisnika = imeKorisnika;
 	}
 
 	public int getBrojKnjiga() {
